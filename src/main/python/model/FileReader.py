@@ -1,3 +1,5 @@
+
+
 def textReader(spark, inputPath):
     """
 
